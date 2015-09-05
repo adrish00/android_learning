@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ex1MyFirstAppEx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_adrish">Hey Adrish! Congrats its your first deployment.</string>
+    <string name="textViewText">This is to test textview!</string>
+
+</resources>

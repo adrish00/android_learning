@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo001</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="buttonTexts">
+        <item>START SERVICE</item>
+        <item>PAUSE SERVICE</item>
+        <item>STOP SERVICE</item>
+    </string-array>
+
+</resources>

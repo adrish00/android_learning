@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Change Layout" description="Change Layout" file="/Demo002FrameLayoutEx/res/layout/activity_main.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/Demo002FrameLayoutEx" sel-end="541" sel-start="0" stamp="1441409445198" type="android.widget.FrameLayout"/>&#x0A;<refactoring comment="Wrap in Container" description="Wrap in Container" file="/Demo002FrameLayoutEx/res/layout/activity_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.wrapin" name="fmmLayout1" proj="/Demo002FrameLayoutEx" sel-end="738" sel-start="561" stamp="1441409551525" type="android.widget.FrameLayout"/>
+</session>
